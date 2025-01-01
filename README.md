@@ -1,1 +1,1 @@
-getHost() ne rabotaet!
+idk
